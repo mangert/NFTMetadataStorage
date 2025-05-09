@@ -1,0 +1,9 @@
+{
+  "name": "Gamma",
+  "description": "The third letter of the Greek alphabet.",
+  "image": "https://i.imgur.com/6MTlK5k.png",
+  "attributes": [
+    { "trait_type": "Letter", "value": "Gamma" },
+    { "trait_type": "Position", "value": 3 }
+  ]
+}
