@@ -1,7 +1,7 @@
 {
   "name": "Beta",
   "description": "The second letter of the Greek alphabet.",
-  "image": "https://i.imgur.com/hyWgdcL.png",
+  "image": "https://raw.githubusercontent.com/mangert/NFTMetadataStorage/main/Beta_2.png",
   "attributes": [
     { "trait_type": "Letter", "value": "Beta" },
     { "trait_type": "Position", "value": 2 }
