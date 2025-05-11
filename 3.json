@@ -1,7 +1,7 @@
 {
   "name": "Gamma",
   "description": "The third letter of the Greek alphabet.",
-  "image": "https://i.imgur.com/6MTlK5k.png",
+  "image": "https://raw.githubusercontent.com/mangert/NFTMetadataStorage/main/Gamma_3.png",
   "attributes": [
     { "trait_type": "Letter", "value": "Gamma" },
     { "trait_type": "Position", "value": 3 }
